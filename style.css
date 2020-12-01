@@ -126,7 +126,40 @@
     left: 5%;
 }
 
-/* next lesson: 31 */
+.content h3 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 80px;
+    font-weight: 400;
+    color: #fff;
+}
+
+.content p {
+    font-family: 'Dosis', sans-serif;
+    font-size: 20 px;
+    color: #ccc;
+}
+
+.content button {
+    width: 130px;
+    padding: 10px 10px 0 0;
+    margin-top: 30px;
+    background: transparent;
+    border: none;
+    outline: none;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: #fff;
+    border-bottom: 1px solid #fff;
+    cursor: pointer;
+}
+
+.content i {
+    margin-left: 8px;
+}
+
+/* next lesson: 32 */
 
 
 
